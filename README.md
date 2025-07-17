@@ -1,8 +1,6 @@
 # Plagiarism-hyper-connections
 Evidence of Plagiarism: Hyper-Connections
 
-对喷版：https://github.com/plagiarism-ai-papers/Plagiarism-hyper-connections-others
-
 
 ## Plagiarism and Academic Misconduct - Two AI Paper of ByteDance Seed
 
